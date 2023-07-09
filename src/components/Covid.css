@@ -1,0 +1,59 @@
+.card {
+  color: white;
+  width: 17%;
+  padding: 0.2rem;
+  margin-right: 1.2rem;
+  transition: 0.5s;
+}
+span {
+  font-size: 0.6rem;
+}
+.card-inner {
+  text-align: center;
+  margin-bottom: 2.8rem;
+  font-size: 1.3rem;
+  box-shadow: rgb(13, 9, 40);
+}
+
+.card-small {
+  font-weight: bold;
+  font-size: 2rem;
+  margin-top: 0rem;
+  text-shadow: 7px 18px rgba(21, 20, 20, 0.196);
+}
+.card-name {
+  margin-bottom: 0rem;
+}
+
+.card:hover {
+  transform: translateY(-20px);
+}
+ul {
+  display: flex;
+  
+  justify-content: center;
+}
+
+.card-1 {
+  background-color: rgb(94, 94, 198);
+}
+.card-2 {
+  background-color: rgb(48, 155, 48);
+}
+.card-3 {
+  background-color: rgba(209, 209, 17, 0.721);
+}
+.card-4 {
+  background-color: orangered;
+}
+.card-5 {
+  background-color: rgb(26, 26, 113);
+}
+.card-6 {
+  background-color: rgb(98, 113, 24);
+}
+
+.sec {
+  text-align: center;
+}
+
